@@ -1,2 +1,11 @@
-.idea
-*.pdf
+# ignore everything
+*
+
+# unignore what needs to be tracked
+
+# files
+!*.gitignore
+!*.md
+!*.py
+!*.h
+!*.cpp

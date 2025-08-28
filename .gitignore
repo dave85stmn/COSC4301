@@ -1,6 +1,9 @@
 # ignore everything
 *
 
+# Unignore directories
+!/Assignment1
+
 # unignore what needs to be tracked
 
 # files
